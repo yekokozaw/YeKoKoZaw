@@ -1,5 +1,5 @@
-<h1 align="center">Hi , I'm Ye Ko Ko Zaw</h1>
-<h3 align="center">I am a junior android developer.I do love solving problems and facing new challenges in life and in software development.As a junior developer, I'm enthusiastic about learning, building, and contributing to the Android developer community.In addition to coding, I enjoy being part of the tech community, attending meetups, and engaging in online forums to learn from experienced developers. I believe in the power of collaboration and look forward to growing as a developer while helping others along the way.</h3>
+<h1 align="center">Hi there, I'm Ye Ko Ko Zaw</h1>
+<h3 align="center">I am a junior android developer.As a junior developer, I'm enthusiastic about learning, building, and contributing to the Android developer community.In addition to coding, I enjoy being part of the tech community, attending meetups, and engaging in online forums to learn from experienced developers. I believe in the power of collaboration and look forward to growing as a developer while helping others along the way.</h3>
 
 
 
