@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Kotlin,Linux**
 
-- 📫 How to reach me 
+- 📫 How to reach me yekozaw4568@gmail.com
 
 - 📄 Know about my experiences 
 
