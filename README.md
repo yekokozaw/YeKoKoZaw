@@ -17,7 +17,7 @@
 
 - 📫 How to reach me yekozaw4568@gmail.com
 
-- 📄 Know about my experiences 
+- 📄 Know about my experiences https://docs.google.com/document/d/1bPHICdd77Jdw8AqeRQQ7Na4PFFw1NJNK2QndcJLRbUs/edit?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
