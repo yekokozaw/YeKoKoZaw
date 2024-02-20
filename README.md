@@ -7,13 +7,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yekokozaw&label=Profile%20views&color=0e75b6&style=flat" alt="yekokozaw" /> </p>
 
-- 🔭 I’m currently working on student project from TU.
+- 🔭 I’m currently working at Asia Brightway as a Mobile Developer.
 
-- 🌱 I’m currently learning **native android development with kotlin.**
+- 🌱 I’m currently learning **Flutter.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/yekokozaw](https://github.com/yekokozaw)
 
-- 💬 Ask me about **Kotlin,Linux**
+- 💬 Ask me about **Kotlin,RestApi,Flutter**
 
 - 📫 How to reach me yekozaw4568@gmail.com
 
