@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/yekokozaw](https://github.com/yekokozaw)
 
-- 💬 Ask me about **Kotlin,RestApi,Flutter**
+- 💬 Ask me about **Kotlin,RestApi,Flutter,Firebase**
 
 - 📫 How to reach me yekozaw4568@gmail.com
 
