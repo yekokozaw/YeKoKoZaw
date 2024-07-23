@@ -21,7 +21,7 @@ https://drive.google.com/file/d/1BiKCNdyNm271zljBZYZKYCfHRbBtETgI/view?usp=shari
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.facebook.com/yorkozel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aung thiha" height="30" width="40" /></a>
+<a href="https://www.facebook.com/yorkozel" target="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-facebook-512.png" alt="aung thiha" height="30" width="40" /></a>
 <a href="https://instagram.com/yorkozel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="flexath11" height="30" width="40" /></a>
 </p>
 
