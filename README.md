@@ -13,7 +13,7 @@ https://drive.google.com/file/d/1BiKCNdyNm271zljBZYZKYCfHRbBtETgI/view?usp=shari
 
 - 👨‍💻 All of my projects are available at [[https://github.com/yekokozaw](https://github.com/yekokozaw)](https://github.com/yekokozaw?tab=repositories)
 
-- 💬 Ask me about **Kotlin,RestApi,Flutter,Firebase**
+- 💬 Ask me about **Kotlin,Flutter,Firebase**
 
 - 📫 How to reach me yekozaw4568@gmail.com
 
