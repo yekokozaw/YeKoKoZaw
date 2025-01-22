@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [[https://github.com/yekokozaw](https://github.com/yekokozaw)](https://github.com/yekokozaw?tab=repositories)
 
-- 💬 Ask me about **Kotlin,Flutter,Firebase**
+- 💬 Ask me about **Android,Flutter,Firebase**
 
 - 📫 How to reach me yekozaw4568@gmail.com,yekokozawdev@gmail.com
 
