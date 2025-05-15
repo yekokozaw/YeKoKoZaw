@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Ye Ko Ko Zaw</h1>
-<h4 align="center">I am Mobile Developer. Proficient in Kotlin, Dart, and related technologies.</h4>
+<h4 align="center">I am Mobile Developer. Proficient in Kotlin, Flutter, and related technologies.</h4>
 
 
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47p9zb8195k3c1sj75g728jkxpmn91tul9nws7wsc1&rid=giphy.gif&ct=g">
