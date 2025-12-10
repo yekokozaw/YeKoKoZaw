@@ -20,7 +20,6 @@
 
 I now have 2 years of mobile development experience, working with Android (Kotlin/Java), Flutter, Firebase, and backend integration.
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
