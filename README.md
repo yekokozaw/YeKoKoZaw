@@ -8,15 +8,17 @@
 
 - 🔭 I’m currently working at Asia Brightway as a Mobile Developer.
 
-- 🌱 I’m currently learning **Flutter.**
+- 🌱 I’m currently learning Flutter and expanding my cross-platform development skills.
 
 - 👨‍💻 All of my projects are available at [[https://github.com/yekokozaw](https://github.com/yekokozaw)](https://github.com/yekokozaw?tab=repositories)
 
 - 💬 Ask me about **Android,Flutter,Firebase**
 
-- 📫 How to reach me yekozaw4568@gmail.com
-
 - 📄 Know about my experiences https://docs.google.com/document/d/1bPHICdd77Jdw8AqeRQQ7Na4PFFw1NJNK2QndcJLRbUs/edit?usp=sharing
+
+🎯 Experience
+
+I now have 2 years of mobile development experience, working with Android (Kotlin/Java), Flutter, Firebase, and backend integration.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
